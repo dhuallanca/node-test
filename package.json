@@ -1,16 +1,17 @@
 {
-  "name": "06-server-express",
-  "version": "1.0.0",
-  "description": "first server test",
-  "main": "app.js",
-  "dependencies": {
-    "express": "^4.16.4"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-  },
-  "author": "Dennis Huallanca",
-  "license": "ISC"
+    "name": "06-server-express",
+    "version": "1.0.0",
+    "description": "first server test",
+    "main": "app.js",
+    "dependencies": {
+        "express": "^4.16.4",
+        "hbs": "^4.0.4"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server-html.js"
+    },
+    "author": "Dennis Huallanca",
+    "license": "ISC"
 }
